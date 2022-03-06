@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Aouatef Rouahi (@AouatefRouahi)
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ML related projects 
+- 🚀Doctor of Philosophy, Ph.D., Artificial Intelligence (AI)
+- 🔥Great passion for AI, Machine Learning and Deep Learning
+- ⭐5 years as Scientific Researcher 
+- ⭐4 years as University Teacher
+- 👉Member of the Belief Functions and Applications Society (BFAS)
+- 👉Member of the Tunisian Association for Artificial Intelligence (ATIA)
+
+- ⚡Love building things that matter
+- 🎲A thinker: Critical thinking🔭, Creative thinking🎨
+- 💥Always motivated to learn, to propose, and to cooperate
 - 📫 How to reach me : rouahi.aouatef@gmail.com
 
 <!---
