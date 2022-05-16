@@ -9,7 +9,6 @@
 - ⚡Love building things that matter
 - 🎲A thinker: Critical thinking🔭, Creative thinking🎨
 - 💥Always motivated to learn, to propose, and to cooperate
-- 📫 How to reach me : rouahi.aouatef@gmail.com
 
 <!---
 AouatefRouahi/AouatefRouahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
